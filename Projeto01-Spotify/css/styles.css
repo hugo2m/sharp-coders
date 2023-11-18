@@ -8,6 +8,18 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+/* Utility classes */
+.btn-primary {
+    background: #1db954;
+    color: white;
+    text-transform: uppercase;
+    padding: 15px 60px;
+    border: none;
+    border-radius: 30px;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
 /* Navbar */
 #navbar {
     display: flex;
