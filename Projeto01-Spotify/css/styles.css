@@ -115,3 +115,12 @@ body {
     color: #919496;
     font-size: 0.8rem;
 }
+
+.socials {
+    display: flex;
+}
+
+.socials i {
+    margin: 0 20px;
+    font-size: 1.7rem;
+}
