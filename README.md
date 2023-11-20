@@ -1,2 +1,1 @@
-# sharp-coders
-Bootcamp  da IMA
+# Repositório criado para os projetos sharp-coders no Bootcamp da IMA e MXM
